@@ -1,4 +1,4 @@
-👋 Hi, I'm Shayek!
+##👋 Hi, I'm Shayek!
 
 Software Developer | MEng Aerospace Engineering | London
 

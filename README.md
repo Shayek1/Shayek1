@@ -3,7 +3,9 @@
 # Software Developer | MEng Aerospace Engineering | London
 
 🔧 Currently building production tools at Times Capital Wealth Management
+
 🌱 Currently learning: Angular, Java
+
 🛠️ Tech Stack: TypeScript, React, Next.js, Python
 
 

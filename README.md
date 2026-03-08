@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Shayek!
+# 👋 Hi, I'm Shayek!
 
-# Software Developer | MEng Aerospace Engineering | London
+## Software Developer | MEng Aerospace Engineering | London
 
 🔧 Currently building production tools at Times Capital Wealth Management
 

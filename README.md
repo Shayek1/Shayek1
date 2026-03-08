@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Shayek!
+
+Software Developer | MEng Aerospace Engineering | London
+
+🔧 Currently building production tools at Times Capital Wealth Management
+🌱 Currently learning: Angular, Java
+🛠️ Tech Stack: TypeScript, React, Next.js, Python
+
+
 
 <!--
 **Shayek1/Shayek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

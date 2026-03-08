@@ -4,7 +4,7 @@
 
 🔧 Currently building production tools at Times Capital Wealth Management
 
-🌱 Currently learning: Angular, Java
+🌱 Currently learning: Angular, AWS
 
 
 <!--

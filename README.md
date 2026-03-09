@@ -1,3 +1,4 @@
+![Oshawott](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49145d03-c93d-4453-81d2-b5f5d43b433d/df45aff-869e5618-acf4-4842-98e6-d48e53025e38.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80OTE0NWQwMy1jOTNkLTQ0NTMtODFkMi1iNWY1ZDQzYjQzM2QvZGY0NWFmZi04NjllNTYxOC1hY2Y0LTQ4NDItOThlNi1kNDhlNTMwMjVlMzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jl_NgjLiBpughhIIoU_NNBIaiPy-_NSlGoqTfnkYtEI)
 # 👋 Hi, I'm Shayek! | Software Developer | London
 
 <h3 align="left">Languages and Tools:</h3>
